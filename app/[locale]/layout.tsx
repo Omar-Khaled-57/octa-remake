@@ -1,11 +1,11 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import "@/app/globals.css";
-import "@/styles/vars.css";
-import "@/styles/nav.css";
-import "@/styles/hero.css";
-import "@/styles/lang-based.css";
-import "@/styles/major-card.css";
+import "../../styles/globals.css";
+import "../../styles/vars.css";
+import "../../styles/nav.css";
+import "../../styles/hero.css";
+import "../../styles/lang-based.css";
+import "../../styles/major-card.css";
 
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
