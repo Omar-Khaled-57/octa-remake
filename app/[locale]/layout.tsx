@@ -25,7 +25,7 @@ const openSans = Open_Sans({
 const leagueGothic = localFont({
   src: [
     {
-      path: "../../../public/fonts/LeagueGothic-Regular.ttf",
+      path: "../../public/fonts/LeagueGothic-Regular.ttf",
       weight: "400",
       style: "normal",
     },
