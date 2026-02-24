@@ -2,7 +2,7 @@
 A complete remake of my first-ever website, re-engineered with Next.js, React, Tailwind and TSX.
 
 # 🌐 Link
-(https://octa-remake-cyan.vercel.app)
+https://octa-remake.vercel.app
 
 # Octa-Projects
 A modern, bilingual (English/Arabic) university website showcasing student projects, built with Next.js, React, Tailwind CSS, and TypeScript.
