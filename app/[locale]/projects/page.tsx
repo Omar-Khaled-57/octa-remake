@@ -5,7 +5,7 @@ import dynamic from "next/dynamic";
 import { getTranslations } from "next-intl/server";
 import { MAJORS, SortOption, LEVEL_ORDER, LEVEL_TRANSLATION_KEYS } from "./constants";
 import ProjectsClientFilters from "../../../components/ProjectsClientFilters";
-import ProjectsHeader from "../../../components/ProjectsHeader.tsx";
+import ProjectsHeader from "../../../components/ProjectsHeader";
 
 import CardWatcher from "../../../components/CardWatcher";
 
@@ -223,5 +223,6 @@ export default async function ProjectsPage({ params, searchParams }: ProjectsPag
   );
 
 }
+
 
 
