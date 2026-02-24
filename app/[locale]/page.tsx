@@ -64,7 +64,7 @@ export default function Home() {
           ) : (
             <>
               <MajorCard image="/images/majors/teeth.png" href={`/${locale}/projects?major=dental`} title={tr("Majors.dental-title")} description={tr("Majors.dental")} />
-              <MajorCard image="/images/majors/drug.png" href={`/${locale}/projects?major=drugs`} title={tr("Majors.drugs-title")} description={tr("Majors.drugs")} />
+              <MajorCard image="/images/majors/drug.png" href={`/${locale}/projects?major=drugs`} title={tr.rich("Majors.drugs-title")} description={tr("Majors.drugs")} />
               <MajorCard image="/images/majors/min.png" href={`/${locale}/projects?major=mid`} title={tr("Majors.mid-title")} description={tr("Majors.medicalInfo")} />
 
               <div className="card-wrapper relative block pointer-events-none opacity-70">
