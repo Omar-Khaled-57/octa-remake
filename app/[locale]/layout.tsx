@@ -136,7 +136,7 @@ export default async function LocaleLayout({
       </head>
 
       <body>
-        <NextIntlClientProvider messages={messages}>
+         <NextIntlClientProvider messages={messages} locale={locale}>
           <Navbar locale={locale} />
           {children}
           <Footer />
