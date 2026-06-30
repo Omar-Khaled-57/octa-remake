@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Octa--Projects-0B192C?style=for-the-badge" alt="Octa-Projects" width="320">
-</div>
+<img src="public/navbar/logo.png" alt="Octa-Projects Logo" width="320">
 
 **My first full project with Next.js, React, and i18n — a modern bilingual university project showcase**
 
