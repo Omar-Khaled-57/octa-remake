@@ -1,4 +1,4 @@
-<img src="public/navbar/logo.png" alt="Octa-Projects Logo" width="320">
+<img src="public/navbar/logo.png" alt="Octa-Projects Logo" width="90">
 
 **My first full project with Next.js, React, and i18n — a modern bilingual university project showcase**
 
