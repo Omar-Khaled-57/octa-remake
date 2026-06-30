@@ -1,4 +1,13 @@
-<img src="public/navbar/logo.png" alt="Octa-Projects Logo" width="90"> <h1>Octa Projects - remake<h1>
+<table style="background:#f3f4f6; border-radius:12px; padding:16px; border-collapse:separate;">
+  <tr>
+    <td style="vertical-align:middle; padding-right:16px;">
+      <img src="public/navbar/logo.png" alt="Octa Projects Logo" width="90">
+    </td>
+    <td style="vertical-align:middle;">
+      <h1 style="margin:0;">Octa Projects - Remake</h1>
+    </td>
+  </tr>
+</table>
 
 **My first full project with Next.js, React, and i18n — a modern bilingual university project showcase**
 
